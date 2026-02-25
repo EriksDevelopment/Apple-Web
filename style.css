@@ -50,7 +50,7 @@ body {
     display: flex;
     align-items: center;
     height: 100vh;
-    background-image: url(/images/Hero-pic.png);
+    background-image: url("./images/Hero-pic.png");
     background-size: cover;
     background-position: center;
 }
@@ -129,7 +129,7 @@ body {
 
 .iphone-section {
     height: 120vh;
-    background-image: url(/images/iphone-background.png);
+    background-image: url("./images/iphone-background.png");
     background-size: cover;
     background-position: center;
 
@@ -215,7 +215,7 @@ body {
 
 .macbook-section {
     height: 100vh;
-    background-image: url(/images/macm5.png);
+    background-image: url("./images/macm5.png");
     background-size: cover;
     background-position: center;
 }
